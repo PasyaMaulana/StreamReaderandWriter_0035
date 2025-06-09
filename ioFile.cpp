@@ -31,4 +31,6 @@ int main()
 
     // operasi file dalam mode membaca
     ifstream infile;
+    // menunjuk ke sebuah file nama file untuk membuka
+    infile.open("contohfile.txt");
 }
