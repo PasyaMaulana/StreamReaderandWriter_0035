@@ -19,4 +19,6 @@ int main()
         /*jika selain interger maka block ini akan dieksekusi*/
         cout << "Default Pengecualian dieksekusi" << endl;
     }
+
+    return 0;
 }
